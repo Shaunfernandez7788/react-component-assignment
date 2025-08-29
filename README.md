@@ -6,7 +6,7 @@ This project is a submission for a front-end development assignment. It features
 
 ### **Live Preview**
 
-**[➡️ View the deployed Storybook here]([https://68b14bdab4fbd39573794cd9-hgumxezbed.chromatic.com/])**
+**[➡️ View the deployed Storybook here](https://68b14bdab4fbd39573794cd9-hgumxezbed.chromatic.com/)**
 
 *(Note: This link will be generated in the final deployment step.)*
 
